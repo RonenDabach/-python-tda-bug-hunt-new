@@ -1,11 +1,11 @@
 # -python-tda-bug-hunt-new
 
 # DEPENDENCY
-#hellobluenove==2.0
+#bleach==3.0.1
 
 
 # VULNERABLE DEPENDENCY IN THE PACKAGE TREE
-#bleach==3.0.1 
+#hellobluenove==2.0
 
 # VULNERABILITIES
 1. WS-2021-0011
